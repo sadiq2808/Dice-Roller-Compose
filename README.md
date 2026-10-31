@@ -1,4 +1,4 @@
-🎲 Dice Roller Compose
+<img width="959" height="539" alt="Screenshot 2026-10-31 235610" src="https://github.com/user-attachments/assets/83bb6cc1-0143-4537-b846-5bf5f29af03f" />🎲 Dice Roller Compose
 
 A simple Android Dice Roller application developed using Kotlin and Jetpack Compose.
 
@@ -22,9 +22,19 @@ Features
 📸 Screenshots
 
 Initial Screen
-<img width="959" height="539" alt="Screenshot 2026-10-31 235610" src="https://github.com/user-attachments/assets/931bb91c-ec33-4b1d-8a10-11ace3df4230" />
-<img width="178" height="391" alt="Screenshot 2026-10-31 235625" src="https://github.com/user-attachments/assets/54236f07-1f39-43e0-905f-d2fb8d697058" />
-<img width="182" height="389" alt="Screenshot 2026-10-31 235652" src="https://github.com/user-attachments/assets/8adb9033-1b5b-42f1-bdd9-f1e06e21b5d8" />
+
+<p align="center">
+  <img width="500" alt="Dice Roller Initial Screen"
+       src="https://github.com/user-attachments/assets/931bb91c-ec33-4b1d-8a10-11ace3df4230" />
+</p>
+
+<p align="center">
+  <img width="220" alt="Dice Roller Screenshot 2"
+       src="https://github.com/user-attachments/assets/54236f07-1f39-43e0-905f-d2fb8d697058" />
+
+  <img width="220" alt="Dice Roller Screenshot 3"
+       src="https://github.com/user-attachments/assets/8adb9033-1b5b-42f1-bdd9-f1e06e21b5d8" />
+</p>
 
 
 
@@ -43,5 +53,7 @@ Android SDK
 Sayed Mohammad Sadiq Alawi
 
 GitHub: @sadiq2808
+
+
 
 
