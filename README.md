@@ -1,4 +1,4 @@
-<img width="959" height="539" alt="Screenshot 2026-10-31 235610" src="https://github.com/user-attachments/assets/83bb6cc1-0143-4537-b846-5bf5f29af03f" />🎲 Dice Roller Compose
+🎲 Dice Roller Compose
 
 A simple Android Dice Roller application developed using Kotlin and Jetpack Compose.
 
